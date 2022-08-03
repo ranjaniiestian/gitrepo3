@@ -13,7 +13,7 @@ Write something in git13
 Write something in git14
 Write something in git15
 Write something in git16
-=======
+
 Write something in local1.
 Write something in local2
 Write something in local3
@@ -21,4 +21,6 @@ Write something in local4.
 Write something in local5.
 Write something in local6.
 
->>>>>>> Stashed changes
+Write something in git21
+Write something in git22
+Write something in git23
